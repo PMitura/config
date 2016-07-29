@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/umlaut/Documents'
+let g:netrw_dirhist_2='/home/umlaut/Documents/BI-EP1'
+let g:netrw_dirhist_3='/home/umlaut/Documents/BI-EP1/factor'
+let g:netrw_dirhist_4='/home/peter/Documents/BI-EFA'
+let g:netrw_dirhist_5='/home/peter/Documents/BI-EFA/ovce'
+let g:netrw_dirhist_6='/home/peter/Competitive/codeforces/con_336/C'
+let g:netrw_dirhist_7='/home/peter/Competitive/codeforces/con_336'
+let g:netrw_dirhist_8='/home/peter/Competitive/codeforces/con_336/B'
+let g:netrw_dirhist_9='/home/peter/Competitive/codeforces/con_336/C'
